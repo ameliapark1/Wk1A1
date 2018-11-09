@@ -1,0 +1,45 @@
+/* 
+- DO NOT DELETE 
+-IMD211: Week 1 Assignment 2 
+-Created by: Amelia Parker 
+*/ 
+
+
+body { 
+    background-color: azure
+} 
+
+header { 
+    width: 300px; 
+    height: 105px;
+    text-align: center;
+    margin: 40px auto 0px; 
+   
+}
+
+
+
+@font-face {
+    font-family: 'trenderregular';
+    src: url('../fonts/trender-webfont.woff2') format('woff2'),
+         url('../fonts/trender-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 { 
+    font-family: "trenderregular";
+    font-size: 52px; 
+    color: firebrick;
+    
+
+}
+
+p { 
+font-family: amaranth, sans-serif;
+font-size: 22px; 
+color: darkslategray;
+
+    
+}
